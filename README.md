@@ -5,7 +5,7 @@ A complete console-based billing application using Java OOP concepts.
 ## Features
 - Veg, Non-Veg, Snacks, Cool Drinks categories
 - Each category has 7 items
-- Add multiple items to bill
+- Add multiple items to bill (quantities auto-merged)
 - Auto bill calculation
 - Customer rating + feedback
 - Uses OOP concepts: classes, objects, lists, encapsulation
@@ -14,6 +14,8 @@ A complete console-based billing application using Java OOP concepts.
 javac src/thops/*.java
 java thops.HotelApp
 
-
 ## Author
 Indumathi
+
+# Hotel_Management
+With Java OOPS
