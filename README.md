@@ -17,5 +17,4 @@ java thops.HotelApp
 ## Author
 Indumathi
 
-# Hotel_Management
-With Java OOPS
+
